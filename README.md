@@ -1,2 +1,2 @@
 # AmdahlLaw
-#### Amdahl's Law graph drawer in python using matplotlib
+#### Amdahl's Law graph drawer in python using matplotlib (py3)
